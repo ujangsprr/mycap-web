@@ -4,10 +4,6 @@
 
 ----
 
-Click on the link.
-
-----
-
 **On your Local Computer**: in your terminal, type in the following command after the dollar sign ($):
 
 ```
