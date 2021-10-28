@@ -1,5 +1,5 @@
 {
-  "name": "your-awesome-website-basic-website-template-node",
+  "name": "tulibot",
   "version": "1.0.0",
   "description": "YOUR PROJECT DESCRIPTION GOES HERE",
   "main": "server.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amyhua/basic-website-template-node.git"
+    "url": ""
   },
   "keywords": [
     "Girls",
@@ -21,9 +21,9 @@
   ],
   "author": "YOUR NAME GOES HERE",
   "bugs": {
-    "url": "https://github.com/amyhua/basic-website-template-node/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/amyhua/basic-website-template-node#readme",
+  "homepage": "",
   "dependencies": {
     "express": "^4.14.0",
     "http": "0.0.0",
