@@ -40,6 +40,10 @@ router.get("/subtitle", function(req, res){
   res.sendFile(__dirname+"/client/subtitle.html")
 })
 
+router.get("/captions-subtitle", function(req, res){
+  res.sendFile(__dirname+"/client/captions.html")
+})
+
 console.log('Booting up the server! Please wait until finished...')
 server.listen(process.env.PORT || 5000, process.env.IP || "0.0.0.0", function(){
   var addr = server.address();
