@@ -4,10 +4,6 @@
 
 ----
 
-**In your Cloud9 Workspace**: hit *Run* (green play button above) and wait for the web server to start.
-Then go to the link in the light blue box (the "terminal") shown below. It will look something like this:
-
-
 Click on the link.
 
 ----
